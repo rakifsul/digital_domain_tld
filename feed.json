@@ -1,0 +1,173 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RAKIFSUL DIGITAL",
+    "description": "",
+    "home_page_url": "https://digital.rakifsul.my.id",
+    "feed_url": "https://digital.rakifsul.my.id/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "RAKIFSUL"
+    },
+    "items": [
+        {
+            "id": "https://digital.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html",
+            "url": "https://digital.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html",
+            "title": "Studi Kasus Electron Membuat Aplikasi Video Player",
+            "summary": "A. Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang \"studi kasus membuat aplikasi video player dengan Electron js\". Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada. Dapatkan",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/KpmIyNThyGs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>A. Pendahuluan</h3>\n<p>Video player adalah aplikasi yang dapat memainkan video.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah paket ebook + source code tentang \"studi kasus membuat aplikasi video player dengan Electron js\".</p>\n<h3>C. Fitur</h3>\n<ul>\n<li>Ebook sudah termasuk</li>\n<li>Source code sudah termasuk</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Tidak ada jaminan bahwa source code bisa dijalankan dengan benar.</li>\n<li>Tidak ada jaminan bahwa Anda akan paham dengan studi kasus ini.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/studi-kasus-electron-membuat-aplikasi-video-player\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 1",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:40:28+07:00",
+            "date_modified": "2024-03-15T02:50:27+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html",
+            "title": "Contoh Project Python 3 Aplikasi Password Generator",
+            "summary": "A. Pendahuluan Password generator adalah aplikasi yang digunakan untuk membuat password. Karya ini adalah contoh project aplikasi password generator yang dibuat dengan Python 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya terlebih dahulu sebelum mencoba, jika ada. Dapatkan",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YsPc_-VdbtY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>A. Pendahuluan</h3>\n<p>Password generator adalah aplikasi yang digunakan untuk membuat password.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project aplikasi password generator yang dibuat dengan Python 3.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur berikut ini:</p>\n<ul>\n<li>Contoh kode membuat password</li>\n<li>Contoh kode untuk menentukan panjang password</li>\n<li>Contoh kode membuat password dengan kombinasi lower case</li>\n<li>Contoh kode membuat password dengan kombinasi upper case</li>\n<li>Contoh kode membuat password dengan kombinasi angka</li>\n<li>Contoh kode membuat password dengan kombinasi simbol</li>\n<li>Contoh kode membuat password dengan karakter unik jika memungkinkan</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code hanya teruji di Windows 11 dengan Python 3.10.11.</li>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-python3-aplikasi-password-generator\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 2",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:39:58+07:00",
+            "date_modified": "2024-03-15T02:50:32+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html",
+            "title": "Contoh Project Nodejs Aplikasi Image Gallery Mongoose",
+            "summary": "A. Pendahuluan Aplikasi image gallery adalah aplikasi yang berfungsi untuk menyimpan dan menampilkan file gambar. Karya ini adalah contoh project aplikasi image gallery yang dibuat dengan Node.js dan Mongoose. Sebagai contoh kode, source code aplikasi image gallery ini bisa menjadi contoh untuk: BACA README-nya terlebih&hellip;",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/HrjBFqMaLvY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>A. Pendahuluan</h3>\n<p>Aplikasi image gallery adalah aplikasi yang berfungsi untuk menyimpan dan menampilkan file gambar.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project aplikasi image gallery yang dibuat dengan Node.js dan Mongoose.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh kode, source code aplikasi image gallery ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara meng-upload file gambar</li>\n<li>Cara menampilkan file gambar</li>\n<li>Cara men-download file gambar</li>\n<li>Cara membuat entry data file gambar di database</li>\n<li>Cara menghapus entry data file gambar di database</li>\n<li>Cara menghapus file sebenarnya dari filesystem di server</li>\n<li>Cara menerapkan tag pada gambar.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-nodejs-aplikasi-image-gallery-mongoose\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 2",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:39:35+07:00",
+            "date_modified": "2024-03-15T02:50:38+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html",
+            "title": "Contoh Project Godot Engine 3 Nav Mesh Agent Sederhana",
+            "summary": "A. Pendahuluan Nav Mesh Agent adalah karakter game yang dapat berjalan mengikuti path dari hasil path finding di atas Navigation Mesh. Karya ini adalah contoh project nav mesh agent sederhana dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya&hellip;",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YuvCY3Fk0uc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>A. Pendahuluan</h3>\n<p>Nav Mesh Agent adalah karakter game yang dapat berjalan mengikuti path dari hasil path finding di atas Navigation Mesh.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project nav mesh agent sederhana dengan Godot Engine 3.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur berikut ini:</p>\n<ul>\n<li>Contoh kode untuk mencari path ke arah target dan berjalan di sepanjangnya</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>\n<li>Project tidak dijamin bisa dijalankan dengan benar.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-godot-engine3-nav-mesh-agent-sederhana\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 1",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:39:09+07:00",
+            "date_modified": "2024-03-15T02:50:45+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html",
+            "title": "Contoh Project Godot Engine 3 Predictive Turret Aim",
+            "summary": "A. Pendahuluan Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game. Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur ini:&hellip;",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/K8byk3fQNOM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>A. Pendahuluan</h3>\n<p>Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur ini:</p>\n<ul>\n<li>Contoh kode untuk menargetkan projectile untuk mengenai mendekati posisi kursor saat menembak.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>\n<li>Project tidak dijamin bisa dijalankan dengan benar.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-godot-engine3-predictive-turret-aim\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 1",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:38:30+07:00",
+            "date_modified": "2024-03-15T02:50:55+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html",
+            "title": "Contoh Project Godot Engine 3 Simple Turret Aim",
+            "summary": "A. Apa Itu Simple Turret Aim? Simple turret aim adalah sistem penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple&hellip;",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/C5QvUv4WKLU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>A. Apa Itu Simple Turret Aim?</h3>\n<p>Simple turret aim adalah sistem penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D.</p>\n<p>Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project simple turret aim dengan Godot Engine 3.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh project, produk ini memiliki fitur berikut ini:</p>\n<ul>\n<li>Contoh kode untuk membidik ke arah kursor</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Project hanya teruji di Windows 11 dengan Godot Engine 3.5.2.</li>\n<li>Project tidak dijamin bisa dijalankan dengan benar.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-godot-engine3-simple-turret-aim\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 1",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:38:07+07:00",
+            "date_modified": "2024-03-15T02:51:02+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-nodejs-dasar-koleksi-1.html",
+            "title": "Contoh Project Node.js Dasar Koleksi 1",
+            "summary": "A. Pendahuluan Node.js adalah runtime environment yang bisa digunakan untuk membuat beragam aplikasi. Di karya ini, saya memberikan beberapa contoh penggunaannya. Karya ini adalah contoh project Node.js dasar koleksi 1. Isinya terdiri dari beberapa project Node.js sederhana yang dikumpulkan. Sebagai contoh kode, karya ini bisa&hellip;",
+            "content_html": "<h3>A. Pendahuluan</h3>\n<p>Node.js adalah runtime environment yang bisa digunakan untuk membuat beragam aplikasi.</p>\n<p>Di karya ini, saya memberikan beberapa contoh penggunaannya.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project Node.js dasar koleksi 1.</p>\n<p>Isinya terdiri dari beberapa project Node.js sederhana yang dikumpulkan.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara menampilkan console.log.</li>\n<li>Cara menggunakan dotenv.</li>\n<li>Cara menggunakan express middleware.</li>\n<li>Cara menggunakan express router.</li>\n<li>Cara menampilkan hello world dengan express.</li>\n<li>Cara menampilkan hello world tanpa framework.</li>\n<li>Cara membaca dan menulis file.</li>\n<li>Cara menampilkan machine id.</li>\n<li>Cara menggunakan bcryptjs.</li>\n<li>Cara menggunakan nodemon.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-nodejs-dasar-koleksi-1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 0",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:37:47+07:00",
+            "date_modified": "2024-03-15T02:51:10+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-electron-dasar-koleksi-1.html",
+            "title": "Contoh Project Electron Dasar Koleksi 1",
+            "summary": "A. Pendahuluan Electron adalah framework untuk membuat aplikasi desktop dengan HTML, CSS, dan JavaScript. Pada karya ini, saya membuat beberapa contoh penggunaannya secara sederhana. Karya ini adalah contoh project Electron dasar koleksi 1. Isinya terdiri dari beberapa project Electron sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;",
+            "content_html": "<h3>A. Pendahuluan</h3>\n<p>Electron adalah framework untuk membuat aplikasi desktop dengan HTML, CSS, dan JavaScript.</p>\n<p>Pada karya ini, saya membuat beberapa contoh penggunaannya secara sederhana.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project Electron dasar koleksi 1.</p>\n<p>Isinya terdiri dari beberapa project Electron sederhana yang dikumpulkan.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara menggunakan console.log.</li>\n<li>Cara menggunakan ipc.</li>\n<li>Cara menggunakan jquery.</li>\n<li>Cara menggunakan loadURL.</li>\n<li>Cara menggunakan menu dan shell.</li>\n<li>Cara menggunakan message box.</li>\n<li>Cara menggunakan open dialog.</li>\n<li>Cara menggunakan save dialog.</li>\n<li>Cara menggunakan tray.</li>\n<li>Cara menggunakan webview tag.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-electron-dasar-koleksi-1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 0",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:37:24+07:00",
+            "date_modified": "2024-03-15T02:51:15+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html",
+            "url": "https://digital.rakifsul.my.id/contoh-project-python-3-dasar-koleksi-1.html",
+            "title": "Contoh Project Python 3 Dasar Koleksi 1",
+            "summary": "A. Pendahuluan Python 3 adalah bahasa pemrograman yang banyak kegunaannya. Salah satu ciri dari Python 3 adalah penggunaan indentation dalam penulisan script-nya. Karya ini adalah contoh project Python 3 dasar koleksi 1. Isinya terdiri dari beberapa project Python 3 sederhana yang dikumpulkan. Sebagai contoh kode,&hellip;",
+            "content_html": "<h3>A. Pendahuluan</h3>\n<p>Python 3 adalah bahasa pemrograman yang banyak kegunaannya.</p>\n<p>Salah satu ciri dari Python 3 adalah penggunaan indentation dalam penulisan script-nya.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah contoh project Python 3 dasar koleksi 1.</p>\n<p>Isinya terdiri dari beberapa project Python 3 sederhana yang dikumpulkan.</p>\n<h3>C. Fitur</h3>\n<p>Sebagai contoh kode, karya ini bisa menjadi contoh untuk:</p>\n<ul>\n<li>Cara membaca csv.</li>\n<li>Cara menulis csv.</li>\n<li>Cara menggunakan file.</li>\n<li>Cara menggunakan json.</li>\n<li>Cara menggunakan modul sendiri.</li>\n<li>Cara menggunakan modul os.</li>\n<li>Cara menggunakan modul sys.</li>\n<li>Cara menggunakan modul _thread.</li>\n<li>Cara menggunakan modul threading.</li>\n<li>Cara menggunakan modul urllib.</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>BACA README-nya terlebih dahulu sebelum mencoba, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Source code hanya teruji di Windows 11 dengan Python 3.10.11.</li>\n<li>Source code tidak dijamin bisa dijalankan dengan benar.</li>\n<li>Source code mungkin memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/contoh-project-python-3-dasar-koleksi-1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Belajar Lv 0",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:37:00+07:00",
+            "date_modified": "2024-03-15T02:51:22+07:00"
+        },
+        {
+            "id": "https://digital.rakifsul.my.id/blender-3d-model-low-poly-koleksi-1.html",
+            "url": "https://digital.rakifsul.my.id/blender-3d-model-low-poly-koleksi-1.html",
+            "title": "Blender 3D Model Low Poly Koleksi 1",
+            "summary": "A. Pendahuluan Blender adalah aplikasi 3D Modelling yang gratis dan open source. Di karya ini, saya menjual beberapa 3D model yang dibuat dengan Blender. Karya ini adalah kumpulan 3D model low poly yang dibuat dengan Blender. Isinya terdiri dari 10 3D model yang dikumpulkan. Berikut&hellip;",
+            "content_html": "<h3>A. Pendahuluan</h3>\n<p>Blender adalah aplikasi 3D Modelling yang gratis dan open source.</p>\n<p>Di karya ini, saya menjual beberapa 3D model yang dibuat dengan Blender.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah kumpulan 3D model low poly yang dibuat dengan Blender.</p>\n<p>Isinya terdiri dari 10 3D model yang dikumpulkan.</p>\n<h3>C. Daftar 3D Model yang Disertakan</h3>\n<p>Berikut ini adalah daftar file 3D modelnya.</p>\n<ul>\n<li>Car001.blend</li>\n<li>Car002.blend</li>\n<li>Car003.blend</li>\n<li>Car004.blend</li>\n<li>Robot001.blend</li>\n<li>Tank001-Black.blend</li>\n<li>Tank001-Red.blend</li>\n<li>Tank002-Black.blend</li>\n<li>Tank002-Red.blend</li>\n<li>Turret001.blend</li>\n</ul>\n<h3>D. Screenshot</h3>\n<p>Screenshot bisa dilihat di halaman produk.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>File tidak dijamin bisa dibuka dengan benar.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/blender-3d-model-low-poly-koleksi-1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk IT Asset",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:23:02+07:00",
+            "date_modified": "2024-03-15T02:51:31+07:00"
+        }
+    ]
+}
