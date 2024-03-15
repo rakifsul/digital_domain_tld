@@ -3,12 +3,35 @@
     <title>RAKIFSUL DIGITAL</title>
     <link href="https://digital.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://digital.rakifsul.my.id" />
-    <updated>2024-03-15T02:51:31+07:00</updated>
+    <updated>2024-03-15T15:39:54+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://digital.rakifsul.my.id</id>
 
+    <entry>
+        <title>Sekarang Produk Digital RAKIFSUL Dijual di Subdomain Terpisah</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://digital.rakifsul.my.id/sekarang-produk-digital-rakifsul-dijual-di-subdomain-terpisah.html"/>
+        <id>https://digital.rakifsul.my.id/sekarang-produk-digital-rakifsul-dijual-di-subdomain-terpisah.html</id>
+            <category term="Info"/>
+
+        <updated>2024-03-15T15:39:54+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Dulu, produk digital saya dijual melalui website utama, www.rakifsul.my.id. Sekarang saya memisahkan produk dari content marketing-nya di subdomain terpisah. Untuk produk digital dari semua niche, dijual melalui website ini.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Dulu, produk digital saya dijual melalui website utama, <a href="http://www.rakifsul.my.id">www.rakifsul.my.id</a>.</p>
+<p>Sekarang saya memisahkan produk dari content marketing-nya di subdomain terpisah.</p>
+<p>Untuk produk digital dari semua niche, dijual melalui website ini.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Studi Kasus Electron Membuat Aplikasi Video Player</title>
         <author>
@@ -418,55 +441,6 @@
 </ul>
 <hr>
 <p class="align-center"><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/contoh-project-python-3-dasar-koleksi-1" target="_blank" rel="nofollow noopener noreferrer">Dapatkan</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blender 3D Model Low Poly Koleksi 1</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://digital.rakifsul.my.id/blender-3d-model-low-poly-koleksi-1.html"/>
-        <id>https://digital.rakifsul.my.id/blender-3d-model-low-poly-koleksi-1.html</id>
-            <category term="Produk IT Asset"/>
-            <category term="Produk"/>
-
-        <updated>2024-03-15T02:51:31+07:00</updated>
-            <summary>
-                <![CDATA[
-                    A. Pendahuluan Blender adalah aplikasi 3D Modelling yang gratis dan open source. Di karya ini, saya menjual beberapa 3D model yang dibuat dengan Blender. Karya ini adalah kumpulan 3D model low poly yang dibuat dengan Blender. Isinya terdiri dari 10 3D model yang dikumpulkan. Berikut&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3>A. Pendahuluan</h3>
-<p>Blender adalah aplikasi 3D Modelling yang gratis dan open source.</p>
-<p>Di karya ini, saya menjual beberapa 3D model yang dibuat dengan Blender.</p>
-<h3>B. Karya Apakah Ini?</h3>
-<p>Karya ini adalah kumpulan 3D model low poly yang dibuat dengan Blender.</p>
-<p>Isinya terdiri dari 10 3D model yang dikumpulkan.</p>
-<h3>C. Daftar 3D Model yang Disertakan</h3>
-<p>Berikut ini adalah daftar file 3D modelnya.</p>
-<ul>
-<li>Car001.blend</li>
-<li>Car002.blend</li>
-<li>Car003.blend</li>
-<li>Car004.blend</li>
-<li>Robot001.blend</li>
-<li>Tank001-Black.blend</li>
-<li>Tank001-Red.blend</li>
-<li>Tank002-Black.blend</li>
-<li>Tank002-Red.blend</li>
-<li>Turret001.blend</li>
-</ul>
-<h3>D. Screenshot</h3>
-<p>Screenshot bisa dilihat di halaman produk.</p>
-<h3>E. Disclaimer</h3>
-<ul>
-<li>File tidak dijamin bisa dibuka dengan benar.</li>
-</ul>
-<hr>
-<p class="align-center"><a class="btn" style="width: 100%;" href="https://karyakarsa.com/rakifsul/blender-3d-model-low-poly-koleksi-1" target="_blank" rel="nofollow noopener noreferrer">Dapatkan</a></p>
             ]]>
         </content>
     </entry>
