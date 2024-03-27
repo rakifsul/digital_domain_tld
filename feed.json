@@ -31,7 +31,7 @@
             "title": "Studi Kasus Electron Membuat Aplikasi Video Player",
             "summary": "A. Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang \"studi kasus membuat aplikasi video player dengan Electron js\". Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada. Dapatkan",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/KpmIyNThyGs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<h3>A. Pendahuluan</h3>\n<p>Video player adalah aplikasi yang dapat memainkan video.</p>\n<h3>B. Karya Apakah Ini?</h3>\n<p>Karya ini adalah paket ebook + source code tentang \"studi kasus membuat aplikasi video player dengan Electron js\".</p>\n<h3>C. Fitur</h3>\n<ul>\n<li>Ebook sudah termasuk</li>\n<li>Source code sudah termasuk</li>\n</ul>\n<h3>D. Peringatan</h3>\n<p>Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada.</p>\n<h3>E. Disclaimer</h3>\n<ul>\n<li>Tidak ada jaminan bahwa source code bisa dijalankan dengan benar.</li>\n<li>Tidak ada jaminan bahwa Anda akan paham dengan studi kasus ini.</li>\n<li>Source code memerlukan akses internet untuk men-download dependency.</li>\n</ul>\n<hr>\n<p class=\"align-center\"><a class=\"btn\" style=\"width: 100%;\" href=\"https://karyakarsa.com/rakifsul/studi-kasus-electron-membuat-aplikasi-video-player\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Dapatkan</a></p>",
-            "image": "https://digital.rakifsul.my.id/media/posts/10/post.svg",
+            "image": "https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg",
             "author": {
                 "name": "RAKIFSUL"
             },
@@ -40,7 +40,7 @@
                    "Belajar IT Lv 1"
             ],
             "date_published": "2024-03-15T02:40:28+07:00",
-            "date_modified": "2024-03-26T08:20:42+07:00"
+            "date_modified": "2024-03-27T17:15:26+07:00"
         },
         {
             "id": "https://digital.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html",

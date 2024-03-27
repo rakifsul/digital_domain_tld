@@ -3,7 +3,7 @@
     <title>RAKIFSUL DIGITAL</title>
     <link href="https://digital.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://digital.rakifsul.my.id" />
-    <updated>2024-03-26T08:22:02+07:00</updated>
+    <updated>2024-03-27T17:15:26+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -40,20 +40,20 @@
         </author>
         <link href="https://digital.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html"/>
         <id>https://digital.rakifsul.my.id/studi-kasus-electron-membuat-aplikasi-video-player.html</id>
-        <media:content url="https://digital.rakifsul.my.id/media/posts/10/post.svg" medium="image" />
+        <media:content url="https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg" medium="image" />
             <category term="Produk"/>
             <category term="Belajar IT Lv 1"/>
 
-        <updated>2024-03-26T08:20:42+07:00</updated>
+        <updated>2024-03-27T17:15:26+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digital.rakifsul.my.id/media/posts/10/post.svg" alt="" />
+                        <img src="https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg" alt="" />
                     A. Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang "studi kasus membuat aplikasi video player dengan Electron js". Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada. Dapatkan
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digital.rakifsul.my.id/media/posts/10/post.svg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/KpmIyNThyGs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Pendahuluan</h3>
