@@ -3,7 +3,7 @@
     <title>RAKIFSUL DIGITAL</title>
     <link href="https://digital.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://digital.rakifsul.my.id" />
-    <updated>2024-03-27T17:23:15+07:00</updated>
+    <updated>2024-03-27T17:36:51+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -44,16 +44,16 @@
             <category term="Produk"/>
             <category term="Belajar IT Lv 1"/>
 
-        <updated>2024-03-27T17:15:26+07:00</updated>
+        <updated>2024-03-27T17:35:38+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg" alt="" />
+                        <img src="https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg" alt="Studi Kasus Electron Membuat Aplikasi Video Player" />
                     A. Pendahuluan Video player adalah aplikasi yang dapat memainkan video. Karya ini adalah paket ebook + source code tentang "studi kasus membuat aplikasi video player dengan Electron js". Sebelum mencoba kode project ini, baca dulu petunjuknya, jika ada. Dapatkan
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://digital.rakifsul.my.id/media/posts/10/thumbnail.svg" class="type:primaryImage" alt="Studi Kasus Electron Membuat Aplikasi Video Player" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/KpmIyNThyGs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Pendahuluan</h3>
@@ -85,20 +85,20 @@
         </author>
         <link href="https://digital.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html"/>
         <id>https://digital.rakifsul.my.id/contoh-project-python-3-aplikasi-password-generator.html</id>
-        <media:content url="https://digital.rakifsul.my.id/media/posts/9/post.svg" medium="image" />
+        <media:content url="https://digital.rakifsul.my.id/media/posts/9/thumbnail.svg" medium="image" />
             <category term="Produk"/>
             <category term="Belajar IT Lv 2"/>
 
-        <updated>2024-03-26T08:20:49+07:00</updated>
+        <updated>2024-03-27T17:35:32+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digital.rakifsul.my.id/media/posts/9/post.svg" alt="" />
+                        <img src="https://digital.rakifsul.my.id/media/posts/9/thumbnail.svg" alt="Contoh Project Python 3 Aplikasi Password Generator" />
                     A. Pendahuluan Password generator adalah aplikasi yang digunakan untuk membuat password. Karya ini adalah contoh project aplikasi password generator yang dibuat dengan Python 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya terlebih dahulu sebelum mencoba, jika ada. Dapatkan
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digital.rakifsul.my.id/media/posts/9/post.svg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://digital.rakifsul.my.id/media/posts/9/thumbnail.svg" class="type:primaryImage" alt="Contoh Project Python 3 Aplikasi Password Generator" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/YsPc_-VdbtY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Pendahuluan</h3>
@@ -136,20 +136,20 @@
         </author>
         <link href="https://digital.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html"/>
         <id>https://digital.rakifsul.my.id/contoh-project-nodejs-aplikasi-image-gallery-mongoose.html</id>
-        <media:content url="https://digital.rakifsul.my.id/media/posts/8/post.svg" medium="image" />
+        <media:content url="https://digital.rakifsul.my.id/media/posts/8/thumbnail.svg" medium="image" />
             <category term="Produk"/>
             <category term="Belajar IT Lv 2"/>
 
-        <updated>2024-03-26T08:20:59+07:00</updated>
+        <updated>2024-03-27T17:35:57+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digital.rakifsul.my.id/media/posts/8/post.svg" alt="" />
+                        <img src="https://digital.rakifsul.my.id/media/posts/8/thumbnail.svg" alt="Contoh Project Nodejs Aplikasi Image Gallery Mongoose" />
                     A. Pendahuluan Aplikasi image gallery adalah aplikasi yang berfungsi untuk menyimpan dan menampilkan file gambar. Karya ini adalah contoh project aplikasi image gallery yang dibuat dengan Node.js dan Mongoose. Sebagai contoh kode, source code aplikasi image gallery ini bisa menjadi contoh untuk: BACA README-nya terlebih&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digital.rakifsul.my.id/media/posts/8/post.svg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://digital.rakifsul.my.id/media/posts/8/thumbnail.svg" class="type:primaryImage" alt="Contoh Project Nodejs Aplikasi Image Gallery Mongoose" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/HrjBFqMaLvY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Pendahuluan</h3>
@@ -186,20 +186,20 @@
         </author>
         <link href="https://digital.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html"/>
         <id>https://digital.rakifsul.my.id/contoh-project-godot-engine-3-nav-mesh-agent-sederhana.html</id>
-        <media:content url="https://digital.rakifsul.my.id/media/posts/7/post.svg" medium="image" />
+        <media:content url="https://digital.rakifsul.my.id/media/posts/7/thumbnail.svg" medium="image" />
             <category term="Produk"/>
             <category term="Belajar IT Lv 1"/>
 
-        <updated>2024-03-26T08:21:08+07:00</updated>
+        <updated>2024-03-27T17:36:18+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digital.rakifsul.my.id/media/posts/7/post.svg" alt="" />
+                        <img src="https://digital.rakifsul.my.id/media/posts/7/thumbnail.svg" alt="Contoh Project Godot Engine 3 Nav Mesh Agent Sederhana" />
                     A. Pendahuluan Nav Mesh Agent adalah karakter game yang dapat berjalan mengikuti path dari hasil path finding di atas Navigation Mesh. Karya ini adalah contoh project nav mesh agent sederhana dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur berikut ini: BACA README-nya&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digital.rakifsul.my.id/media/posts/7/post.svg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://digital.rakifsul.my.id/media/posts/7/thumbnail.svg" class="type:primaryImage" alt="Contoh Project Godot Engine 3 Nav Mesh Agent Sederhana" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/YuvCY3Fk0uc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Pendahuluan</h3>
@@ -230,20 +230,20 @@
         </author>
         <link href="https://digital.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html"/>
         <id>https://digital.rakifsul.my.id/contoh-project-godot-engine-3-predictive-turret-aim.html</id>
-        <media:content url="https://digital.rakifsul.my.id/media/posts/6/post.svg" medium="image" />
+        <media:content url="https://digital.rakifsul.my.id/media/posts/6/thumbnail.svg" medium="image" />
             <category term="Produk"/>
             <category term="Belajar IT Lv 1"/>
 
-        <updated>2024-03-26T08:21:20+07:00</updated>
+        <updated>2024-03-27T17:36:34+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digital.rakifsul.my.id/media/posts/6/post.svg" alt="" />
+                        <img src="https://digital.rakifsul.my.id/media/posts/6/thumbnail.svg" alt="Contoh Project Godot Engine 3 Predictive Turret Aim" />
                     A. Pendahuluan Predictive turret aim maksudnya adalah sistem pembidik turret yang mana jika pelurunya ditembakkan maka akan jatuh mendekati target yang ditunjuk kursor dalam game. Karya ini adalah contoh project predictive turret aim dengan Godot Engine 3. Sebagai contoh project, produk ini memiliki fitur ini:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digital.rakifsul.my.id/media/posts/6/post.svg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://digital.rakifsul.my.id/media/posts/6/thumbnail.svg" class="type:primaryImage" alt="Contoh Project Godot Engine 3 Predictive Turret Aim" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/K8byk3fQNOM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Pendahuluan</h3>
@@ -274,20 +274,20 @@
         </author>
         <link href="https://digital.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html"/>
         <id>https://digital.rakifsul.my.id/contoh-project-godot-engine-3-simple-turret-aim.html</id>
-        <media:content url="https://digital.rakifsul.my.id/media/posts/5/post.svg" medium="image" />
+        <media:content url="https://digital.rakifsul.my.id/media/posts/5/thumbnail.svg" medium="image" />
             <category term="Produk"/>
             <category term="Belajar IT Lv 1"/>
 
-        <updated>2024-03-26T08:21:32+07:00</updated>
+        <updated>2024-03-27T17:36:51+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digital.rakifsul.my.id/media/posts/5/post.svg" alt="" />
+                        <img src="https://digital.rakifsul.my.id/media/posts/5/thumbnail.svg" alt="Contoh Project Godot Engine 3 Simple Turret Aim" />
                     A. Apa Itu Simple Turret Aim? Simple turret aim adalah sistem penargetan turret yang dilakukan dengan mengonversi koordinat kursor di layar ke koordinat di ruang 3D. Dengan demikian, arah muzzle turret selalu mengarah ke target yang ditunjuk kursor mouse. Karya ini adalah contoh project simple&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digital.rakifsul.my.id/media/posts/5/post.svg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://digital.rakifsul.my.id/media/posts/5/thumbnail.svg" class="type:primaryImage" alt="Contoh Project Godot Engine 3 Simple Turret Aim" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/C5QvUv4WKLU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <h3>A. Apa Itu Simple Turret Aim?</h3>
